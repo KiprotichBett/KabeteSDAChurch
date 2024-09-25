@@ -93,7 +93,7 @@
     padding: 25px 0;
     color: var(--dark);
     font-weight: 500;
-    text-transform: uppercase;
+    text-transform: lowercase;
     outline: none;
 }
 
